@@ -16,7 +16,7 @@ operation:
     name: uuid
 
 
-    pzthon_action:
+    python_action:
     script: |
       import uuid
       uuid=str(uuid.uuid1())
